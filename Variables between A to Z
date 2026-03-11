@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int variabe;
+
+    printf("");
+    scanf("%d", &variable);
+
+    if (ch >= 'A' && ch <= 'Z') {
+        printf("The character is between A and Z (Uppercase letter).");
+    } 
+    else {
+        printf("The character is NOT between A and Z.");
+    }
+
+    return 0;
+}
